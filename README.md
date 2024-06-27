@@ -50,3 +50,4 @@ Steps: Tick off steps as they are completed.
 Total Calories: Displays the total calories of the recipe, with a red warning if it exceeds 300 calories.
 
 # GitHub Link
+https://github.com/Fortunemlilo/POE_RecipeManager.git
