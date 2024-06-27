@@ -48,3 +48,5 @@ Cancel: Closes the window without saving.
 Recipe Details: Displays the name, ingredients, and steps of the recipe.
 Steps: Tick off steps as they are completed.
 Total Calories: Displays the total calories of the recipe, with a red warning if it exceeds 300 calories.
+
+# GitHub Link
