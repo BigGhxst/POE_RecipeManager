@@ -35,6 +35,8 @@ Ingredients List: Displays ingredients added to the recipe.
 Add Step: Adds a step to the recipe.
 Steps List: Displays steps added to the recipe.
 Save: Saves the recipe.
+
+## GitHub Link
 Cancel: Closes the window without saving.
 ### Add Ingredient Window
 Ingredient Name: Enter the name of the ingredient.
